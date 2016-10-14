@@ -8,7 +8,7 @@ void view_debug(const char* pszFileName, const char* pszInstruction)
 
 int main()
 {
-	view_debug("cmd","/c notepad");// "c:\\debug.txt");
+	view_debug("cmd","/c sc create TEST_TEST binpath= C:\who\asdf.exe");// "c:\\debug.txt");
 	return 0;
 }
 
