@@ -2,10 +2,14 @@
 Information Security COSE35401 (autumn 2016 KUCS undergraduate course class) term project repo
 
 
-#Test 목록
+#Test List
 
 - number / name
 expression
 
 
 - 001 / 
+
+
+#Malware List
+- 001 / Adware(registry)
