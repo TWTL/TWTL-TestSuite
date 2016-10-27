@@ -1,15 +1,18 @@
 # TestSuite
-Information Security COSE35401 (autumn 2016 KUCS undergraduate course class) term project repo
 
+Test suite repo for TWTL project.
 
-#Test List
+## List of tests
 
-- number / name
-expression
-
-
-- 001 / 
-
-
-#Malware List
-- 001 / Adware(registry)
+* 001. [cpu01](/001-cpu01)
+* 002. [cpu02](/002-cpu02)
+* 003. [files01](/003-files01)
+* 004. [files02](/004-files02)
+* 005. [write01](/005-write01)
+* 006. [write02](/006-write02)
+* 007. [write03](/007-write03)
+* 008. [registry01](/008-registry01): Windows Registry의 HKLM\\...\\Run에 항목을 추가함
+* 009. [registry02](/009-registry02)
+* 010. [service01](/010-service01)
+* 011. [service02](/011-service02)
+* 012. [service03](/012-service03)
